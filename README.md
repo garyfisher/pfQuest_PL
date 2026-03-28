@@ -36,8 +36,8 @@ Includes support for:
 
 Example:
 
-![Map View](./screenshots/map.png)  
-![Quest Log](./screenshots/questlog.png)  
+<img src="https://github.com/garyfisher/pfQuest_PL/blob/master/screen1.jpg" >
+<img src="https://github.com/garyfisher/pfQuest_PL/blob/master/screen2.jpg">
 
 ---
 
