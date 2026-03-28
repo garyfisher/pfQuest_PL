@@ -68,6 +68,54 @@ World of Warcraft\Interface\AddOns
 
 ---
 
+## 🐛 Reporting Translation Issues
+
+If you find any errors in quest translations (typos, missing text, wrong context), please report them via **GitHub Issues**.
+
+👉 https://github.com/garyfisher/pfQuest_PL/issues
+
+### 📋 Issue Template
+
+Please use the following format when reporting a problem:
+
+
+Quest ID:
+Quest Name:
+
+Type of Issue:
+(e.g. typo / missing text / incorrect translation / formatting issue)
+
+Current Text:
+(paste the current Polish text)
+
+Suggested Fix:
+(your corrected version)
+
+Additional Notes:
+(optional)
+
+
+Example:
+
+
+Quest ID: 137
+Quest Name: Stormwind Commendation
+
+Type of Issue:
+Incorrect translation
+
+Current Text:
+"Pochwała Stormwind"
+
+Suggested Fix:
+"Pochwała ze Stormwind"
+
+Additional Notes:
+Better fits WoW naming conventions
+
+
+---
+
 ## 🙌 Credits
 
 - Original addon: **Shagu**
