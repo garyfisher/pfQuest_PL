@@ -124,6 +124,7 @@ Better fits WoW naming conventions
 - VMaNGOS
 - CMaNGOS
 - Mangos Extras
+- wowpopolsku.pl
 
 ---
 
